@@ -118,8 +118,7 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="THỜI SỰ" tvg-logo="https://i.ibb.co/0Yj99ss/VNEWS.png" ,VNews
 #EXTVLCOPT:http-user-agent="KIIP"
 https://zjizeoupprliv.vcdn.cloud/live/vnews/playlist.m3u8
-#EXTINF:-1 tvg-id="antg" group-title="THỜI SỰ" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/CNN-invert-red-white-logo.png",CNN
-https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e6.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/live_dzones/cnn.smil/manifest.mpd
+ 
 
 
 
