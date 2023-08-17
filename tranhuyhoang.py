@@ -570,11 +570,45 @@ http://dl.dropboxusercontent.com/scl/fi/qe1iw7f2gk3e339vkxbcz/getlink/api/token/
 #EXTINF:-1 tvg-id="cctv10" group-title="Quốc Tế-Msky" tvg-logo="cctv10.png",CCTV10
 http://dl.dropboxusercontent.com/scl/fi/u5qbt3vesho9m9el0e7gw/getlink/chinatv/api/token/bc1qyznfpkcj5q6hkn4tn8rnmmk8lhmmwu9vx8095s/daili/index.m3u8?rlkey=cjsitnqcoecx7eaebtkxwno1y&id=cctv10
 
-#--*.*--HCATV--*.*--#
-#EXTINF:-1 tvg-id="hitv" group-title="HCATV" tvg-logo="https://i.ibb.co/YpgT1nz/hanoicab1.png", HCATV1 - HiTV
-http://khanggtivi.duckdns.org/getplay/mytv/45/hd.m3u8
-#EXTINF:-1 tvg-id="youtv" group-title="HCATV" tvg-logo="https://i.ibb.co/zH2hQMg/hanoicab2.png", HCATV2 - YouTV
-http://khanggtivi.duckdns.org/getplay/tv360/31/0.m3u8
+#-*--Thiết yếu-*--#
+#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/35/auto/dvr-${start}-${offset}.m3u8", ANTV HD
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png", VNews
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/vnews-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="nhandan" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/92.png", Nhân Dân TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/nhan-dan-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/quoc-hoi-viet-nam-hd/dvr-${start}-${offset}.m3u8", Quốc Hội HD
+http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png", QPVN HD
+http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vovtvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV HD
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+
+#-*--Khác-*--#
+
+#EXTINF:-1 tvg-id="anvienhd" group-title="🖥| Khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/96.png", BTV9 - An Viên TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
+
+#-*--Hanoicab-*--
+#EXTINF:-1 tvg-id="hitv" group-title="💕| HCATV" tvg-logo="https://cdn.hqth.me/logo/thumbs/98.png", HCATV1 - HiTV HD
+https://code.vthanhtivi.pw/getlink/mytv/45/hd.m3u8
+#EXTINF:-1 tvg-id="youtv" group-title="💕| HCATV" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png", HCATV2 - YouTV
+https://code.vthanhtivi.pw/getlink/tv360/31/0.m3u8
+#EXTINF:-1 tvg-id="antg" group-title="💕| HCATV" tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", An Ninh Thế Giới
+https://code.vthanhtivi.pw/getlink/tv360/21/0.m3u8
+
+#-*--THVL-*--#
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png" catchup="append" catchup-days="7" catchup-source="https://code.vthanhtivi.pw/xemlai/thvli/thvl1/dvr-${start}-${offset}.m3u8", THVL1 HD
+http://live-ali4.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png" catchup="append" catchup-days="7" catchup-source="https://code.vthanhtivi.pw/xemlai/thvli/thvl2/dvr-${start}-${offset}.m3u8", THVL2 HD
+http://live-ali4.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png" catchup="append" catchup-days="7" catchup-source="https://code.vthanhtivi.pw/xemlai/thvli/thvl3/dvr-${start}-${offset}.m3u8", THVL3 HD
+http://live-ali4.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png" catchup="append" catchup-days="7" catchup-source="https://code.vthanhtivi.pw/xemlai/thvli/thvl4/dvr-${start}-${offset}.m3u8", THVL4 HD
+http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 
 
 #-*--Địa phương-*--#
