@@ -654,9 +654,6 @@ http://khanggtivi.duckdns.org/getplay/mytv/616/hd.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/6ycwfXh/THAIBINH.png" ,Thái Bình
 #http://103.90.220.236/tbtvlive/tv1live.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/122/index.m3u8
-#EXTINF:-1 tvg-id="namdinh" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/159.png", NTV Nam Định
-#EXTVLCOPT:http-user-agent=Khanggtivi
-https://code.vthanhtivi.pw/getlink/tv360/73/0.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/XCwcNgS/VINHPHUC.png", Vĩnh Phúc
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist_w188836389.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/HHCQqfc/BACGIANG.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/bacgiang_2000.stream/chunks_dvr_range-${start}-10800.m3u8", Bắc Giang
