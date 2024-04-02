@@ -1,6 +1,26 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #list tổng hợp từ nhiều nguồn, chúng tôi không nhận donate cũng như bán list
 
+#EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
+https://live-on-v2-cdnetwork.sigmaott.com/manifest/vtv1/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
+https://live-on-v2-vndt.sigmaott.com/manifest/vtv2/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
+https://live-on-v2-vndt.sigmaott.com/manifest/vtv3/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
+https://live-on-v2-vndt.sigmaott.com/manifest/vtv4/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
+https://live-on-v2-vndt.sigmaott.com/manifest/vtv5/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
+https://live-on-v2-vndt.sigmaott.com/manifest/vtv6/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
+https://live-on-v2-vndt.sigmaott.com/manifest/vtv7/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
+https://live-on-v2-cdnetwork.sigmaott.com/manifest/vtv8/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
+https://live-on-v2-cdnetwork.sigmaott.com/manifest/vtv9/playlist_1080p.m3u8
+
+
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
 https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png", SCTV2 HD
@@ -52,4 +72,28 @@ https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn
 https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/thvl1/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/L5cYQkR/THVL2-HD.png" tvg-chno="42" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDItNzIwcCIsImV4cCI6MTYzMjA1ODMwMH0.4PTHR8_ixewLqEsezx2dUUnJaHLplrvQLZww8Nlr9no-/thvl2-720p/chunks_dvr_range-${start}-1140.m3u8",Vĩnh Long 2 HD
 https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/thvl2/index.m3u8
+
+
+#--*.*--INTHEBOX.TV--*.*--#
+#EXTINF:-1 tvg-id="inthebox" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/inthebox.jpg",$ In The Box
+https://live-on-v2-vndt.sigmaott.com/manifest/box/playlist_720p.m3u8
+#EXTINF:0 tvg-id="boxmovie1" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/boxmovie1.jpg",Box Movie 1
+https://live-on-v2-vndt.sigmaott.com/manifest/box-movie/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="boxhits" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/boxhits.jpg",$ Box Hits
+https://live-on-v2-akm.akamaized.net/manifest/box-hit/playlist_720p.m3u8
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/hollywoodclassics.jpg",Hollywood Classics
+https://live-on-v2-cdnetwork.sigmaott.com/manifest/hollywood-classics/playlist_1080p.m3u8
+#EXTINF:0 tvg-id="drfithd" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/drfithd.jpg",DR.Fit
+https://live-on-v2-cdnetwork.sigmaott.com/manifest/dr-fit/playlist_1080p.m3u8
+#EXTINF:0 tvg-id="woman" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/woman.jpg",Woman
+https://live-on-v2-vndt.sigmaott.com/manifest/woman/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="man" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/man.jpg", Man
+https://live-on-v2-vndt.sigmaott.com/manifest/man/playlist_720p.m3u8
+#EXTINF:0 tvg-id="planetearthhd" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/planetearthhd.jpg",Planet Earth
+https://live-on-v2-akm.akamaized.net/manifest/planet-earth/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/musicbox.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/69/hd/dvr-${start}-${end}.m3u8", Music Box
+https://live-on-v2-vndt.sigmaott.com/manifest/music-box/playlist_720p.m3u8
+#EXTINF:0 tvg-id="happykids" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/happykids.jpg",Happy Kids
+https://live-on-v2-akm.akamaized.net/manifest/vtvcab21/playlist_720p.m3u8
+
 
