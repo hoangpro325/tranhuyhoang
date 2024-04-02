@@ -73,8 +73,12 @@ https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/L5cYQkR/THVL2-HD.png" tvg-chno="42" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDItNzIwcCIsImV4cCI6MTYzMjA1ODMwMH0.4PTHR8_ixewLqEsezx2dUUnJaHLplrvQLZww8Nlr9no-/thvl2-720p/chunks_dvr_range-${start}-1140.m3u8",Vĩnh Long 2 HD
 https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/thvl2/index.m3u8
 
+#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", World
+https://live-3.otcnet.ru/wfc-int-master/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion Russian
+https://live-3.otcnet.ru/wfc-rus-master/tracks-v1a1/mono.m3u8
 
 
 
