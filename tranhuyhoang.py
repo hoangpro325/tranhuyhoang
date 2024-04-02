@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtv1/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
-https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv2-720p.m3u8
+https://106135605.vws.vegacdn.vn/vQBdCcjtm0-5Y9mLax4rYg/1712167712/MDk3NDA5MDMyNQ==/cliptv_live/amlst:vtv2hd/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
 https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv3/index.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
