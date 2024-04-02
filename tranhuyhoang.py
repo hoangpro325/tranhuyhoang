@@ -74,26 +74,5 @@ https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/
 https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/thvl2/index.m3u8
 
 
-#--*.*--INTHEBOX.TV--*.*--#
-#EXTINF:-1 tvg-id="inthebox" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/inthebox.jpg",$ In The Box
-https://oipf0znpmnliv.vcdn.cloud/hls/inthebox/index.m3u8
-#EXTINF:0 tvg-id="boxmovie1" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/boxmovie1.jpg",Box Movie 1
-https://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/boxhits.jpg",$ Box Hits
-https://oipf0znpmnliv.vcdn.cloud/hls/boxhits/index.m3u8
-#EXTINF:0 tvg-id="hollywoodclassics" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/hollywoodclassics.jpg",Hollywood Classics
-https://oipf0znpmnliv.vcdn.cloud/hls/hollywoodclassics/index.m3u8
-#EXTINF:0 tvg-id="drfithd" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/drfithd.jpg",DR.Fit
-https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
-#EXTINF:0 tvg-id="woman" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/woman.jpg",Woman
-https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
-#EXTINF:-1 tvg-id="man" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/man.jpg", Man
-https://oipf0znpmnliv.vcdn.cloud/hls/man/index.m3u8
-#EXTINF:0 tvg-id="planetearthhd" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/planetearthhd.jpg",Planet Earth
-https://oipf0znpmnliv.vcdn.cloud/hls/planetearthhd/index.m3u8
-#EXTINF:-1 tvg-id="musicbox" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/musicbox.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/69/hd/dvr-${start}-${end}.m3u8", Music Box
-https://oipf0znpmnliv.vcdn.cloud/hls/boxmusic/index.m3u8
-#EXTINF:0 tvg-id="happykids" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/happykids.jpg",Happy Kids
-https://oipf0znpmnliv.vcdn.cloud/hls/happykids/index.m3u8
 
 
